@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 60px;
+}
+.button-buy{
+        background-image: linear-gradient(to bottom ,black 0% , black 100%);
+        color:#fff;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+        margin-top:10px;
+    
+}
+.kamal{
+    background-image: url(../hot-gadgets/hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.hriday{
+    background-image: url(../hot-gadgets/hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.card{
+    border:none;
+    box-shadow: 10px 10px 10px lightgray;
+   
+}
+.card-img-top{
+    width: 150px;
+}
+.card-footer{
+    border-top: none;
+    background-color:#fff;
+}
+.bag-item{
+    padding-right: 100px;
+    box-shadow: 10px 10px 10px 10px lightgray;
+}
+.perfume{
+    margin-bottom: 80px;
+    box-shadow: 10px 10px 10px  10px lightgray;
+}
+.shoe{
+    box-shadow: 10px 10px 10px  10px lightgray;
+}
